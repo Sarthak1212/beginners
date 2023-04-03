@@ -1,0 +1,33 @@
+.one{
+    height: 90%;
+    width: 50%;
+    background-color: #d7ebec;
+    text-align: center;
+    font-size: 50px;
+    
+    border: 2px;
+    border-radius: 7%;
+    border-color: rgb(248, 93, 93);
+    border-style:groove;
+    
+    position: absolute;
+    left:50%
+
+    
+    
+
+} 
+
+.two{
+    height: 90%;
+    width: 50%;
+    background-color: #d7ebec;
+    text-align: center;
+    font-size: 50px;
+    
+    
+    position: relative;
+    
+    
+
+} 
